@@ -49,5 +49,113 @@
 },{
   "id": 13,
   "name": "SQL",
+  "category": "database"
+},{
+  "id": 14,
+  "name": "Chef",
   "category": "backend"
+},{
+  "id": 15,
+  "name": "Java",
+  "category": "backend"
+},{
+  "id": 16,
+  "name": "Wordpress",
+  "category": "backend"
+},{
+  "id": 17,
+  "name": "PHP",
+  "category": "backend"
+},{
+  "id": 18,
+  "name": "MySQL",
+  "category": "database"
+},{
+  "id": 19,
+  "name": "Postgres",
+  "category": "database"
+},{
+  "id": 20,
+  "name": "Branding",
+  "category": "design"
+},{
+  "id": 21,
+  "name": "Photoshop",
+  "category": "design"
+},{
+  "id": 22,
+  "name": "Illustrator",
+  "category": "design"
+},{
+  "id": 23,
+  "name": "Graphic Design",
+  "category": "design"
+},{
+  "id": 24,
+  "name": "git",
+  "category": "general"
+},{
+  "id": 25,
+  "name": "Linux",
+  "category": "general"
+},{
+  "id": 26,
+  "name": "Windows",
+  "category": "general"
+},{
+  "id": 27,
+  "name": "Mac OSX",
+  "category": "general"
+},{
+  "id": 28,
+  "name": "Open Source",
+  "category": "general"
+},{
+  "id": 29,
+  "name": "Side Projects",
+  "category": "general"
+},{
+  "id": 30,
+  "name": "Architecture",
+  "category": "general"
+},{
+  "id": 31,
+  "name": "Sencha Touch",
+  "category": "frontend"
+},{
+  "id": 32,
+  "name": "Angular.js",
+  "category": "frontend"
+},{
+  "id": 33,
+  "name": "node.js",
+  "category": "backend"
+},{
+  "id": 34,
+  "name": "Objective C",
+  "category": "backend"
+},{
+  "id": 35,
+  "name": "Android Java",
+  "category": "backend"
+},{
+  "id": 36,
+  "name": "phonegap",
+  "category": "backend"
+},{
+  "id": 37,
+  "name": "Sales",
+  "category": "nontech"
+},{
+  "id": 38,
+  "name": "Marketing",
+  "category": "nontech"
+},{
+  "id": 39,
+  "name": "Networking",
+  "category": "nontech"
+},{
+  "id": 40,
+  "name": "Meetings",
+  "category": "nontech"
 }]

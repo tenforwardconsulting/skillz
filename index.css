@@ -62,6 +62,7 @@ li {
   position: absolute;
   text-align: center;
   top: 0;
+  opacity: .8;
   width: 60px;
 }
 
