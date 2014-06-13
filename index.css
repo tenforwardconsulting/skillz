@@ -1,0 +1,70 @@
+div, span, li, ul, h1, html, body {
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+}
+.canvas {
+  background: #efefef;
+  height: 100%;
+  position: relative;
+}
+
+.x-axis {
+  background: black;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+.min, .max {
+  position: absolute;
+}
+.x-axis .max {
+  right: 0;
+}
+.y-axis .max {
+  bottom: 0;
+}
+
+.y-axis {
+  background: black;
+  height: 100%;
+  left: 50%;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+ul {
+  left: 10px;
+  position: absolute;
+  top: 10px;
+}
+li {
+  background-color: coral;
+  border-radius: 50%;
+  border: 1px solid maroon;
+  display: table-cell;
+  font-size: 12px;
+  height: 60px;
+  left: 0;
+  list-style: none;
+  padding-top: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 60px;
+}
+
+li.frontend {
+  background-color: cyan;
+}

@@ -1,0 +1,53 @@
+[{
+  "id": 1,
+  "name": "Ruby",
+  "category": "backend"
+},{
+  "id": 2,
+  "name": "Python",
+  "category": "backend"
+},{
+  "id": 3,
+  "name": "C#",
+  "category": "backend"
+},{
+  "id": 4,
+  "name": "Ruby on Rails",
+  "category": "backend"
+},{
+  "id": 5,
+  "name": "Django",
+  "category": "backend"
+},{
+  "id": 6,
+  "name": "CSS",
+  "category": "frontend"
+},{
+  "id": 7,
+  "name": "SASS",
+  "category": "frontend"
+},{
+  "id": 8,
+  "name": "HTML",
+  "category": "frontend"
+},{
+  "id": 9,
+  "name": "HAML",
+  "category": "frontend"
+},{
+  "id": 10,
+  "name": "Javascript",
+  "category": "frontend"
+},{
+  "id": 11,
+  "name": "jQuery",
+  "category": "frontend"
+},{
+  "id": 12,
+  "name": "Ember.js",
+  "category": "frontend"
+},{
+  "id": 13,
+  "name": "SQL",
+  "category": "backend"
+}]
