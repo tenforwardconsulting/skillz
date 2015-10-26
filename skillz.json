@@ -53,7 +53,7 @@
 },{
   "id": 14,
   "name": "Chef",
-  "category": "backend"
+  "category": "devops"
 },{
   "id": 15,
   "name": "Java",
@@ -152,10 +152,62 @@
   "category": "nontech"
 },{
   "id": 39,
-  "name": "Networking",
+  "name": "Networking (People)",
   "category": "nontech"
 },{
   "id": 40,
   "name": "Meetings",
   "category": "nontech"
+},{
+  "id": 41,
+  "name": "Networking (Computers)",
+  "category": "backend"
+},{
+  "id": 42,
+  "name": "React",
+  "category": "frontend"
+},{
+  "id": 43,
+  "name": "Elixir",
+  "category": "backend"
+},{
+  "id": 44,
+  "name": "Swift",
+  "category": "backend"
+},{
+  "id": 45,
+  "name": "Mentoring",
+  "category": "nontech"
+},{
+  "id": 46,
+  "name": "Ansible",
+  "category": "devops"
+},{
+  "id": 47,
+  "name": "Puppet",
+  "category": "devops"
+},{
+  "id": 48,
+  "name": "Server Admin",
+  "category": "devops"
+},{
+  "id": 49,
+  "name": "Photography",
+  "category": "nontech"
+},{
+  "id": 50,
+  "name": "Minecraft",
+  "category": "nontech"
+},{
+  "id": 51,
+  "name": "Email",
+  "category": "nontech"
+},{
+  "id": 52,
+  "name": "Ionic",
+  "category": "frontend"
+},{
+  "id": 53,
+  "name": "Xcode",
+  "category": "backend"
 }]
