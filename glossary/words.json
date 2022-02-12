@@ -1,0 +1,16 @@
+{
+  "Computer Hardware": [
+    "Hard Drive (Disk)",
+    "Memory",
+    "CPU Cache",
+    "Processor (CPU)",
+    "Graphics card (GPU)",
+    "Motherboard"
+  ],
+  "Operating Systems": [
+    "File",
+    "Directory/Folder",
+    "Command line/Terminal Emulator",
+    "Socket"
+  ]
+}
